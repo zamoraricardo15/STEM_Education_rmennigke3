@@ -7,6 +7,8 @@ This project explores the integration of storytelling in online STEM education t
 ## Tool Description
 The interactive tool is developed using HTML5, CSS3, and JavaScript for the frontend, with Node.js and Express.js powering the backend. MongoDB is used for data management, with security features implemented via bcrypt.js and express-session.
 
+## Deployed version: https://cs6460-project-rmennigke3.onrender.com/
+
 ## Installation
 
 ### Prerequisites:
