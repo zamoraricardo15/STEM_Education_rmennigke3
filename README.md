@@ -16,10 +16,15 @@ The interactive tool is developed using HTML5, CSS3, and JavaScript for the fron
 
 ### Steps:
 Clone the repository:
+
 git clone https://github.com/zamoraricardo15/CS6460_project_rmennigke3.git
+
 cd CS6460_project_rmennigke3
+
 Install dependencies: npm install
+
 Start the server: node app.js
+
 Open http://localhost:3000 in your web browser.
  
 ## Contributing
