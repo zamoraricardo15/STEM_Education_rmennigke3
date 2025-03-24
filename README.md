@@ -1,5 +1,4 @@
-# CS6460_project_rmennigke3
-Integrating Storytelling in STEM History and Heritage Education: A Cross-Disciplinary Approach to Enhancing Learning Outcomes
+# Broadening Engagement and Inclusivity in Computing Education through Storytelling and Historical Context
 
 ## Abstract
 This project explores the integration of storytelling in online STEM education to enhance engagement and accessibility. By developing a storytelling tool that incorporates diverse historical perspectives, this research aims to make STEM subjects more engaging and inclusive.
